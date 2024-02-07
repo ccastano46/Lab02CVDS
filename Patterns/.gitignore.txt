@@ -1,5 +1,6 @@
 /target/
 /.settings/
-bin/
+/bin/
+bin/target/classses/META-INF
 .project
 .classpath
