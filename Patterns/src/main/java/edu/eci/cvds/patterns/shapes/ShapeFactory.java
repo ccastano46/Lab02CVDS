@@ -8,7 +8,7 @@ public class ShapeFactory {
      * @param shapeType la figura que se va a crear
      * @return La figura creada
      */
-    public static Shape crea (RegularShapeType shapeType){
+    public static Shape create (RegularShapeType shapeType){
         switch (shapeType) {
             case Quadrilateral:
                 return new Quadrilateral();
